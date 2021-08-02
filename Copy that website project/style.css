@@ -1,0 +1,58 @@
+#nav {
+    background-color: rgba(0, 0, 0, 0.712);
+    margin: -10px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.nav_items {
+    padding-bottom: -30px;
+}
+
+.nav_items:hover {
+    color: white;
+    opacity: 0.5;
+}
+
+#nav a {
+    /* width: 15%; */
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: none;
+}
+
+#nav .logo {
+    width: 50px;
+}
+
+#nav .logo2 {
+    width: 35px;
+}
+
+#nav .shooping {
+    width: 30px;
+}
+
+.text {
+    text-align: center;
+}
+
+#header2 {
+    background-color: rgb(236, 235, 235);
+    margin: -25px;
+}
+
+.text1 {
+    margin-top: 25px;
+}
+
+#header3 {
+    margin-top: 100px;
+}
+
+#iphone img {
+    width: 100%;
+}
